@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ColorActivity</string>
+    <string-array name="colorList">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Magenta</item>
+        <item>Purple</item>
+        <item>Teal</item>
+        <item>Cyan</item>
+        <item>DarkGray</item>
+    </string-array>
+    <string-array name="displayList">
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Amarillo</item>
+        <item>Magenta</item>
+        <item>Púrpura</item>
+        <item>Trillo</item>
+        <item>Cian</item>
+        <item>GrisOscuro</item>
+    </string-array>
+</resources>
