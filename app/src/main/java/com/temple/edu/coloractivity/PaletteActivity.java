@@ -16,7 +16,7 @@ public class PaletteActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("Pallete Activity");
+        setTitle("Palette Activity");
 
         Resources res = getResources();
         final String[] colors = res.getStringArray(R.array.colorList);
